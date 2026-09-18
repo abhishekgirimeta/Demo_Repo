@@ -1,3 +1,4 @@
 # Demo_Repo
-index.html file is added
+This is demo repository just for practice
+
 
